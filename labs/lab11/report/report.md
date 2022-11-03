@@ -113,6 +113,14 @@ header-includes:
 
 Здесь кратко описываются итоги проделанной работы.
 
+
+*MARKDOWN*
+
+__MARKDOWN__
+
+
+#MARKDOWN#
+
 # Список литературы{.unnumbered}
 
 ::: {#refs}
